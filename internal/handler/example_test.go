@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ankorstore/yokai-http-template/internal"
+	"github.com/vick1165/go-http-backend/internal"
 	"github.com/ankorstore/yokai/log/logtest"
 	"github.com/ankorstore/yokai/trace/tracetest"
 	"github.com/labstack/echo/v4"

@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/ankorstore/yokai-http-template/cmd"
+	"github.com/vick1165/go-http-backend/cmd"
 )
 
 func main() {
